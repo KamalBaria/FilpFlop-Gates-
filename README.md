@@ -2,4 +2,4 @@
 ![](https://img.shields.io/badge/Language-Python-blueviolet)
 ![](https://img.shields.io/badge/Vs-Code-blueviolet)
 
-  This 
+  This Respositoryis to showcase work on "Flip Flop" & "Gates" for subject CSA Practical (Computer System Architecture). 
